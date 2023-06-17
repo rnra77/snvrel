@@ -1,3 +1,3 @@
 
-https://github.com/rnra77/snvrel/releases 
+RELEASE > https://github.com/rnra77/snvrel/releases 
  
